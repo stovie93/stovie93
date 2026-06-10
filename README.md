@@ -1,6 +1,6 @@
 ## Hi, I'm Jordan
 
-I build practical tools where AI, geography, and the field meet — apps for industries that still run on paper, and projects that preserve what was almost lost.
+I enjoy exploring personal projects that will teach me something new. All of the repos you see are things people asked me to build while challenging myself to new tech.
 
 ### Recent Work
 
@@ -20,4 +20,4 @@ I build practical tools where AI, geography, and the field meet — apps for ind
 
 ### Currently exploring
 
-How small, focused AI integrations can replace clipboards and PDFs in field-heavy industries.
+Potential work opportunities.
