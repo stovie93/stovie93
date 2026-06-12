@@ -18,7 +18,3 @@ I enjoy exploring personal projects that will teach me something new. All of the
 - **Data / Backend** — PostgreSQL, Prisma, Supabase, C# / .NET
 - **3D / Maps** — Three.js, Mapbox GL, OSMdroid
 - **AI** — Anthropic Claude via SDK
-
-### Currently exploring
-
-Potential work opportunities.
