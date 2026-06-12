@@ -4,6 +4,7 @@ I enjoy exploring personal projects that will teach me something new. All of the
 
 ### Recent Work
 
+- **[repodoc](https://github.com/stovie93/repodoc)** — CLI that analyzes any repository (local or GitHub URL) and generates two docs: AGENTS.md for AI coding tools and OVERVIEW.md in plain English for humans. Static analysis works offline; an optional Claude pass adds narrative depth. *Python + Anthropic Claude API.*
 - **[TrafficPlanApp](https://github.com/stovie93/TrafficPlanApp)** — AI-assisted construction traffic control planning. Planners enter a job address, Claude suggests MUTCD-compliant device placement on an interactive map, and a supervisor approves before field crew can act. *Expo / React Native + Supabase + Anthropic.*
 - **[The Gathering Academy](https://github.com/stovie93/gathering-academy)** — Web platform for Polynesian ancestral lineage research, preserving oral-tradition scroll sources from Samoa, Tonga, Hawaii, Fiji, Aotearoa, Cook Islands, and Tahiti. *Next.js 16 + Prisma 7 + NextAuth v5.*
 - **[PropertyViewer Accounting](https://github.com/stovie93/accountingSoftware)** — Multi-tenant accounting platform for utility billing: properties, providers, bills, and financial items, with scheduled report exports to external accounting software. *.NET 9 Web API + EF Core + PostgreSQL backend, React 19 + Vite + TanStack Query front end.*
@@ -15,6 +16,6 @@ I enjoy exploring personal projects that will teach me something new. All of the
 
 - **Web** — TypeScript, React, Next.js, Tailwind
 - **Mobile** — React Native (Expo), Native Android (Kotlin + Jetpack Compose)
-- **Data / Backend** — PostgreSQL, Prisma, Supabase, C# / .NET
+- **Data / Backend** — PostgreSQL, Prisma, Supabase, C# / .NET, Python
 - **3D / Maps** — Three.js, Mapbox GL, OSMdroid
 - **AI** — Anthropic Claude via SDK
